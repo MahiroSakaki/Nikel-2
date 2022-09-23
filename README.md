@@ -1,5 +1,7 @@
 # Codaí - Nikel
 
-Esse é um repositório de exemplo para o projeto [codaí] (https://academy.growdev.com.br).
+Esse é um repositório de exemplo para o projeto codaí .
 
-This is example reposotory to [codaí] (https://academy.growdev.com.br) project.
+This is example reposotory to codaí project.
+
+https://academy.growdev.com.br
